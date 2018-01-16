@@ -19,23 +19,33 @@ MAIN MENU FOR Admin user and Customer
 
 Logout 
 
-•Customer: 
+•Customer:
+
 Login 
+
 Search for movie.
+
 Can see the rating of the movie
+
 Book Tickets for the movie according to the showtime
+
 Book single or multiple movie tickets
+
 Delete a booking if required. 
+
 Make payment for the tickets.
+
 Get total price deducted if exceed the specific amount (like coupon)
+
 Can click recommended Hotel or Restaurant website provided in the home page after movie time
+
 Logout 
 
-login credentials
+LOGIN CREDENTIALS
 The account of admin user is “admin”, password is “admin1234”;
 The Customer’s account can be registered, such as the normal user I already have, “jason” and password “1234”.
 
-For the images of application
+FOR THE IMAGES of application
 If you cannot see the image of homepage, encounter this error “Error: loading image: file:/E:~  /Images/***.jpg, then should do following steps:
 Find the Java IDE  workspace
 Navigate Java Workspace/booking/CinemaTicket/bin/cinematicketbooking/ and copy Images folder from the source directory and paste here.
