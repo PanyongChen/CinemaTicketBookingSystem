@@ -41,11 +41,13 @@ MAIN MENU FOR Admin user and Customer
 
 Logout 
 
-LOGIN CREDENTIALS
+LOGIN CREDENTIALS:
+
 The account of admin user is “admin”, password is “admin1234”;
 The Customer’s account can be registered, such as the normal user I already have, “jason” and password “1234”.
 
-FOR THE IMAGES of application
+FOR THE IMAGES of application:
+
 If you cannot see the image of homepage, encounter this error “Error: loading image: file:/E:~  /Images/***.jpg, then should do following steps:
 Find the Java IDE  workspace
 Navigate Java Workspace/booking/CinemaTicket/bin/cinematicketbooking/ and copy Images folder from the source directory and paste here.
