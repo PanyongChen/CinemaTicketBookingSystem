@@ -4,13 +4,21 @@ The project is about cinema ticket booking system for the customers and admin us
 Administrator will add, Update and Delete the movie records. The customers can sign up, login, logout, search for movie, book the ticket according to the show time, make payment and cancel ticket. Besides, customers can also see the rating of movie, and buy single ticket or multiple tickets, also can get coupon if exceed the specific amount.
 
 MAIN MENU FOR Admin user and Customer 
+
 •Administrator: 
+
 Add movie records. 
+
 Update movie records. 
+
 Delete movie records.
+
 Add movie show time
+
 Delete movie show time
+
 Logout 
+
 •Customer: 
 Login 
 Search for movie.
